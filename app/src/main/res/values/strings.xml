@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chuck Norris</string>
+    <string name="todo" />
+    <string name="text">Tap to Chuck Norris to see random joke about Chuck Norris.</string>
+</resources>
